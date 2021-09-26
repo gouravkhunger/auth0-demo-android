@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Auth0 Demo</string>
+    <string name="com_auth0_domain">auth0-demo-android.us.auth0.com</string>
+    <string name="john_doe">John Doe</string>
+    <string name="email">john.doe@email.com</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
 </resources>
