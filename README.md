@@ -1,6 +1,6 @@
-# auth0-demo-android
+# Demo Implementation of Auth0
 
-**WIP**!
+[Read the article](https://genicsblog.com/authentication-in-android-app-with-auth0).
 
 Demo implementation of Auth0 Authentication for Android.
 
